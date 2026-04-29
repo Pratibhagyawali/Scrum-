@@ -1,2 +1,2 @@
-# Scrum-
+# Scrum
 Scrum project
